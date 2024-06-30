@@ -1,4 +1,7 @@
 # Search-Algos
+Finding the Number of steps for traversal in given user-input maze, start and end points for different search methods.</br>
+Implemented Data structures and Algorithms in C++, STL library.
+</br></br>
 <h3>Breadth First Search</h3>
 In BFS code, we first check if the start and end cells are valid. Then we perform BFS using a queue, marking visited cells and exploring neighbors in all four directions. If we reach the destination cell, we print "Path exists". If we exhaust all possibilities without finding a path, we print "No path exists".
 </br>
