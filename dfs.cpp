@@ -1,3 +1,9 @@
+/*
+       Implemented BFS algorithm to find the shortest path 
+       Code by Varun Kashyap
+*/
+
+
 #include <iostream>
 #include <vector>
 
@@ -62,3 +68,4 @@ int main() {
 
   return 0;
 }
+ /* code ends*/
